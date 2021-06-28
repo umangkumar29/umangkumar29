@@ -10,7 +10,8 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 - 🌱 &nbsp; Learning more about web development , Systems Design and Artificial <br>Intelligence.<br>
 - ✍️ &nbsp; dealing with challenging problems.<br>
 
-
+<br>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangkumar29" alt="umangkumar29" /></a> </p>
 
