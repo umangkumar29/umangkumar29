@@ -16,9 +16,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangkumar29" alt="umangkumar29" /></a> </p>
 
 - 🌱 I’m currently learning **about web development and c++**
-
 - 📫 How to reach me **umangidea9@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
