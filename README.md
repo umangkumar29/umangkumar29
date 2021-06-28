@@ -5,6 +5,12 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umangkumar29&label=Profile%20views&color=0e75b6&style=flat" alt="umangkumar29" /> </p>
+- 🤔 &nbsp; Learning, exploring new technologies and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Communication Engineering at Kalinga       Institute of Industrial Technology, Bhubaneswar.
+- 🌱 &nbsp; Learning more about web development , Systems Design and Artificial       Intelligence.
+- ✍️ &nbsp; dealing with challenging problems.
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangkumar29" alt="umangkumar29" /></a> </p>
 
