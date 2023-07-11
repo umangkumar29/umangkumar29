@@ -8,7 +8,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 - 🤔 &nbsp; Learning, exploring new technologies and quick hacks.<br>
 - 🎓 &nbsp; Studying Computer Science and Communication Engineering at Kalinga<br>Institute of Industrial Technology, Bhubaneswar.<br>
 - 🌱 &nbsp; Learning more about web development , Systems Design and Artificial <br>Intelligence.<br>
-- ✍️ &nbsp; dealing with challenging problems.<br>
+- ✍️ &nbsp; Dealing with challenging problems.<br>
 
 <br>
 <br>
