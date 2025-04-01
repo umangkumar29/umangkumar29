@@ -1,7 +1,7 @@
 
 Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Umang Kumar!] 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umangkumar29&label=Profile%20views&color=0e75b6&style=flat" alt="umangkumar29" /> </p>
@@ -15,7 +15,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangkumar29" alt="umangkumar29" /></a> </p>
 
-- 🌱 I’m currently learning **about web development and c++**
+- 🌱 I’m currently learning **about Spring Boot, JPA , Spring Microservices, JWT**
 - 📫 How to reach me **umangidea9@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
