@@ -14,7 +14,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangkumar29" alt="umangkumar29" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=umangkumar29-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I’m currently learning **about Spring Boot, JPA , Spring Microservices, JWT**
 - 📫 How to reach me **umangidea9@gmail.com**
 - ⚡ Fun fact **I think I am funny**
